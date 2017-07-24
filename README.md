@@ -2,9 +2,8 @@
 src for hummingbirdpatties.com
 
 ## Install
+`nvm use`
 
-`yarn install`
-
-`gatsby build`
+`npm install`
 
 `surge`
